@@ -1,4 +1,5 @@
 # hello-world
 hi adesh!
 
-ashraf here ,i made some changes in node.js and script(thats what i made of!).
+ghaus here ,i made some changes in java.https and javascript(rhat what is!).
+get those code on common api 
